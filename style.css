@@ -1,0 +1,12 @@
+#box{
+	width : 600px ;
+	height : 600px ;
+	background-color: yellow ; 
+	margin : 0 auto;
+}
+.tile{
+	width : 197px ;
+	height : 197px;
+	background-color: green;
+	display: inline-block;
+}
